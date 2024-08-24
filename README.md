@@ -1,6 +1,9 @@
-# EssentialsPractice
+# Investment Calculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+
+# Snapshot
+![image](https://github.com/user-attachments/assets/3119ec58-4111-4836-988f-243ec8d7559f)
 
 ## Development server
 
